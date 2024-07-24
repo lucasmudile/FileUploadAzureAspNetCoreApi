@@ -1,0 +1,6 @@
+@ApiAzureUpload_HostAddress = http://localhost:5259
+
+GET {{ApiAzureUpload_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
